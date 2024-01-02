@@ -12,7 +12,6 @@ If you think about memory in a computer as an empty book shelf, a variable is a 
 - The `=` is how we assign a value to our variable name.
 - And `"Will"` is the value assigned to our `variableName`.
 
-
 ---
 
 ## Requirements
